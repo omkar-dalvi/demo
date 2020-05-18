@@ -6,8 +6,6 @@ This is a basic readme file.
 
 This is a change in the file
 
-# This is a modification to the branch
+Changes in my file
 
-Working on stash
-
-Some changes in the file
+Adding some more changes
